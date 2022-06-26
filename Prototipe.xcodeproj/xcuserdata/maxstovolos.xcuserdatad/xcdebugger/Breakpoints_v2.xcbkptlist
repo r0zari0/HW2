@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89C410AA-AFAD-45AD-83A2-43D02555062D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "916DDE63-7356-44F3-8D50-AF8BD756EEE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prototipe/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "916DDE63-7356-44F3-8D50-AF8BD756EEE6 - d564e799e108e8df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.AppDelegate.__allocating_init() -&gt; Prototipe.AppDelegate"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "916DDE63-7356-44F3-8D50-AF8BD756EEE6 - 1c65a1f33bcb159e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.AppDelegate.init() -&gt; Prototipe.AppDelegate"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "916DDE63-7356-44F3-8D50-AF8BD756EEE6 - 3f472e080f787ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.AppDelegate.__deallocating_deinit"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "916DDE63-7356-44F3-8D50-AF8BD756EEE6 - d031bd603b0f53d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E6DF444-D78F-4903-ADD3-73EA6A93CC78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prototipe/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "application(_:configurationForConnecting:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prototipe/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - 2b81ab2fe2009119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.currentLight.getter : Prototipe.CurrentLight"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - acf4bddaed160795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.currentLight.setter : Prototipe.CurrentLight"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - 8db9901baa081bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.currentLight.modify : Prototipe.CurrentLight"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - ad1b3a6ea1dcac3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.currentLight.modify : Prototipe.CurrentLight with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - aacd099e2c593f9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Prototipe.ViewController"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "F8653E67-208B-4DC3-8619-EFD2B6826F83 - 1675f653a695ef5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prototipe.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Prototipe.ViewController&gt;"
+                  moduleName = "Prototipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxstovolos/Desktop/Prototipe/Prototipe/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
